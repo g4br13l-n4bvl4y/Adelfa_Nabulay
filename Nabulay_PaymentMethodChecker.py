@@ -1,7 +1,7 @@
 # Name: Nabulay, Gabriel Seth B.
 # Grade and Section: 8-Adelfa
 
-payment_methods = ["gcash", "paypal", "card"] # List of payment methods
+payment_methods = ["gcash", "cash", "card"] # List of payment methods
 
 while True:
     entered_payment_method = input("Enter payment method: ").lower() # Inputs user's payment method
